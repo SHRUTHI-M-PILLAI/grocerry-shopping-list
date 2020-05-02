@@ -1,0 +1,83 @@
+[
+    {
+         "serialno":1,
+         "name":"Rice",
+         "quantity":10,
+         "unit": "Kilo",
+         "department":"Grains",
+         "notes": "Available"
+    },
+    {
+        "serialno":2,
+        "name":"Milk",
+        "quantity":15,
+        "unit": "Litre",
+        "department":"Dairy",
+        "notes": "Available"
+    },
+    {
+        "serialno":3,
+        "name":"Salt",
+        "quantity":10,
+        "unit": "no:s",
+        "department":"Condiments",
+        "notes": "Availabile"
+    },
+    {
+        "serialno":4,
+        "name":"Butter",
+        "quantity":12,
+        "unit": "no:s",
+        "department":"Diary",
+        "notes": "Available"
+    },
+    {
+        "serialno":5,
+        "name":"Tomato",
+        "quantity":100,
+        "unit": "no:s",
+        "department":"Vegetables",
+        "notes": "Available"
+    },
+    {
+        "serialno":6,
+        "name":"Carrot",
+        "quantity":50,
+        "unit": "no:s",
+        "department":"Vegetables",
+        "notes": "Available"
+    },
+    {
+        "serialno":7,
+        "name":"Cucumber",
+        "quantity":50,
+        "unit": "no:s",
+        "department":"Vegetables",
+        "notes": "Low Availablity"
+    },
+    {
+        "serialno":8,
+        "name":" Coconut Oil",
+        "quantity":20,
+        "unit": "no:s",
+        "department":"Stationery",
+        "notes": "Available"
+    },
+    {
+        "serialno":9,
+        "name":"Apple",
+        "quantity":25,
+        "unit": "Kilo",
+        "department":"Fruits",
+        "notes": "Low Availablity"
+    },
+    {
+        "serialno":10,
+        "name":"Skinless White Meat",
+        "quantity":25,
+        "unit": "Kilo",
+        "department":"Meat Products",
+        "notes": "Low Availablity"
+    }
+
+]
